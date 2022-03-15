@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">💻 I'm CURRENTLY LEARNING....</h1>
-<h1 align="center">A passionate frontend developer.</h1>
+<h1 align="center">💻 CURRENTLY LEARNING....</h1>
+<h1 align="center">*A passionate frontend developer*</h1>
 
 - 🌱learning **WEB DEVELOPMENT**
 
