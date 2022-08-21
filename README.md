@@ -2,11 +2,11 @@
 <h1 align="center">💻 CURRENTLY LEARNING....</h1>
 <h1 align="center">*A passionate frontend developer*</h1>
 
-- 🌱learning **WEB DEVELOPMENT**
+- learning **WEB DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sarasumbulrehman](https://github.com/sarasumbulrehman)
+- 👨‍💻 All of my projects are available at [https://github.com/sarasumbulrehman](https://github.com/sarasumbulrehman) 
 
-- 📫 How to reach me **sumbulsara3gmail.com**
+-reach me@ **sumbulsara3gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
